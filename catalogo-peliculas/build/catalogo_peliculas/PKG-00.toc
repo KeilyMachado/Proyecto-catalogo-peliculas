@@ -1,0 +1,60 @@
+('C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+ 'Programación\\catalogos-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\catalogo_peliculas.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\env\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('catalogo_peliculas',
+   'C:\\Users\\user\\Desktop\\II PERIODO\\Lenguajes de '
+   'Programación\\catalogos-peliculas\\catalogo-peliculas\\catalogo_peliculas.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
